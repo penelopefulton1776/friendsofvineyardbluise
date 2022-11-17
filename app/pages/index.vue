@@ -1,7 +1,7 @@
 <template>
   <section class="home">
     <div class="py-24 md:py-36 mx-auto flex flex-wrap flex-col md:flex-row items-center">
-      <div class="flex flex-col w-full xl:w-3/5 justify-center lg:items-start overflow-y-hidden">
+      <div class="flex flex-col w-full xl:w-5/5 justify-center lg:items-start overflow-y-hidden">
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
 		<div>
 <iframe src="https://player.vimeo.com/video/772175998?h=dfaf62ae3b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1358" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Carol (1080p)"></iframe>
