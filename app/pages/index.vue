@@ -3,26 +3,12 @@
     <div class="py-24 md:py-36 mx-auto flex flex-wrap flex-col md:flex-row items-center">
       <div class="flex flex-col w-full xl:w-3/5 justify-center lg:items-start overflow-y-hidden">
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
-        <div>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo expedita quaerat, neque
-          similique incidunt odio non eaque nulla recusandae velit labore maxime! Laborum,
-          perspiciatis adipisci! Tempora molestiae voluptatem eius ratione.
+        <div style="padding:75% 0 0 0;position:relative;">
+          <iframe src="https://player.vimeo.com/video/772171476?h=1bb1e0b002&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay;     fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Carol">
+          </iframe>
         </div>
-        <div class="mt-4">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo expedita quaerat, neque
-          similique incidunt odio non eaque nulla recusandae velit labore maxime! Laborum,
-          perspiciatis adipisci! Tempora molestiae voluptatem eius ratione.
-        </div>
-        <div class="mt-4">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo expedita quaerat, neque
-          similique incidunt odio non eaque nulla recusandae velit labore maxime! Laborum,
-          perspiciatis adipisci! Tempora molestiae voluptatem eius ratione.
-        </div>
-        <div class="mt-4">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo expedita quaerat, neque
-          similique incidunt odio non eaque nulla recusandae velit labore maxime! Laborum,
-          perspiciatis adipisci! Tempora molestiae voluptatem eius ratione.
-        </div>
+          <script src="https://player.vimeo.com/api/player.js">
+          </script>
       </div>
     </div>
   </section>
