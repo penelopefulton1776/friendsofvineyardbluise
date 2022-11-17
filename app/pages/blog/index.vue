@@ -8,18 +8,22 @@
     </div>
 
     <div class="flex flex-wrap md:-mx-4 pb-20">
-      <div v-for="(post, index) in posts" :key="index" class="w-full md:w-1/2 my-4 md:px-4">
-        <div class="post">
+      <div
+        v-for="(post, index) in posts"
+        :key="index"
+        class="w-full md:w-1/2 lg:w-1/3 my-4 md:px-4"
+      >
+        <div class="post rounded-md overflow-hidden shadow-lg">
           <nuxt-link :to="`/blog/${post.slug}`">
             <img
               :alt="post.title"
-              class="w-full"
+              class="w-full h-64"
               :src="post.featuredImage || 'https://source.unsplash.com/random/640x340'"
             />
             <div class="p-6 bg-white">
               <h2 class="text-2xl mb-2">{{ post.title }}</h2>
 
-              <p class="text-base font-light">
+              <p class="text-base font-light truncate">
                 {{ post.excerpt }}
               </p>
 

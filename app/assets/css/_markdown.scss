@@ -14,6 +14,7 @@
 
 .markdown > * + * {
   @apply mt-0 mb-4;
+  @apply font-semibold;
 }
 
 .markdown li + li {
@@ -58,6 +59,10 @@
 
 .markdown h6 {
   @apply leading-tight text-sm font-semibold text-gray-600 mb-4 mt-6;
+}
+
+.markdown p img {
+  @apply m-auto;
 }
 
 .markdown blockquote {
