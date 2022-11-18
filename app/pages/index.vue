@@ -1,11 +1,9 @@
 <template>
   <section class="home">
     <div class="py-24 md:py-36 mx-auto flex flex-wrap flex-col md:flex-row items-center">
-      <div class="flex flex-col w-full xl:w-3/5 justify-center lg:items-start overflow-y-hidden">
+      <div class="flex flex-col w-full xl:w-3/5 justify-center lg">
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
-		<div>
-<iframe src="https://player.vimeo.com/video/772175998?h=dfaf62ae3b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1358" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Carol (1080p)"></iframe>
-      </div>
+        <div style="padding:79.53% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/772175998?h=dfaf62ae3b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Carol (1080p)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 	  </div>
     </div>
   </section>
