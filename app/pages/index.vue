@@ -36,7 +36,7 @@
         <nav>
       <ul class="flex flex-row items-center sm:mt-4 sm:pt-4 md:mt-0 md:pt-0 md:mr-4 lg:mr-8">
         <li>
-          <u><span style="color:#2F5496;"><a href="/files/002 2022.11.10 Complaint.pdf">complaint</a></span></u>
+          <u><span style="color:#2F5496;"><a href="/files/002 2022.11.10 Complaint.pdf">The Complaint</a></span></u>
         </li>
 
         
