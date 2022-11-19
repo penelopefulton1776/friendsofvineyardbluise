@@ -4,7 +4,7 @@
       <div class="flex flex-col w-full xl:w-3/5 justify-center lg">
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
         <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
-<p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'><em>Friends of the Vineyard</em> is a body of Christians that helped found and establish Vineyard Anaheim, the church that Alan and Kathryn Scott were hired to serve as lead pastors in late 2017. This webpage is intended to bring light to the events and conduct that led hundreds of congregants to leave Vineyard Anaheim and that led to the lawsuit that you can read <u><span style="color:#2F5496;">here</span></u>.</p>
+<p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'><em>Friends of the Vineyard</em> is a body of Christians that helped found and establish Vineyard Anaheim, the church that Alan and Kathryn Scott were hired to serve as lead pastors in late 2017. This webpage is intended to bring light to the events and conduct that led hundreds of congregants to leave Vineyard Anaheim and that led to the lawsuit that you can read <u><span style="color:#2F5496;"><a href="/files/002 2022.11.10 Complaint.pdf">here</a></span></u>.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>In February 2022, Alan Scott announced his intention to disassociate the Vineyard Anaheim church from Vineyard USA along with all its assets totaling at least $62 Million. Vineyard Anaheim was renamed Dwelling Place Anaheim by the Scotts and the new board of directors. Vineyard Anaheim was the flagship church of the Vineyard movement internationally as it was started by one of the founders of the Vineyard movement</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
@@ -36,9 +36,7 @@
         <nav>
       <ul class="flex flex-row items-center sm:mt-4 sm:pt-4 md:mt-0 md:pt-0 md:mr-4 lg:mr-8">
         <li>
-          <nuxt-link to="/files/002 2022.11.10 Complaint.pdf" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
-            The Complaint
-          </nuxt-link>
+          <a href="/files/002 2022.11.10 Complaint.pdf">The Complaint</a>
         </li>
 
         
