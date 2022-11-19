@@ -10,8 +10,7 @@
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>Importantly, the plaintiffs in the lawsuit represent the majority of members of the board of directors that hired Alan and Kathryn Scott along with members of the Search Committee that recommended the Scotts to lead the church as pastors. It is the representations made by Alan Scott during the interviews before the search committee and the then existing board of directors that establish the legal basis for the lawsuit.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
-<p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>We encourage you to read the detailed factual assertions set forth in the <u><span style="color:#2F5496;"><nuxt-link to="/content/files/002 2022.11.10 Complaint.pdf" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
-            complaint</nuxt-link></span></u> that was filed in the Superior Court of the County of Orange, which is now a matter of public record.</p>
+<p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>We encourage you to read the detailed factual assertions set forth in the <u><span style="color:#2F5496;"><a href="/files/002 2022.11.10 Complaint.pdf">complaint</a></span></u> that was filed in the Superior Court of the County of Orange, which is now a matter of public record.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>Following significant efforts to resolve the dispute biblically with the Scotts and their new board of directors, the former board members, search committee members, and congregants believed they had a responsibility to take this legal action to remedy the wrong perpetrated on the Vineyard congregation and to safeguard the Body of Christ.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
@@ -37,7 +36,7 @@
         <nav>
       <ul class="flex flex-row items-center sm:mt-4 sm:pt-4 md:mt-0 md:pt-0 md:mr-4 lg:mr-8">
         <li>
-          <nuxt-link to="/content/files/002 2022.11.10 Complaint.pdf" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
+          <nuxt-link to="/files/002 2022.11.10 Complaint.pdf" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
             The Complaint
           </nuxt-link>
         </li>
