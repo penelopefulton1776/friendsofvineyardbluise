@@ -44,9 +44,44 @@
         
       </ul>
     </nav>
-       
+            <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
+            
     </div>
-    </div>
+    <div id="over" style="position:relative; width:100%; height:100%;">
+ <img src="images/uploads/LawsuitArticle.png">
+</div>
+
+<p style="margin: 0in 0in 0.0001pt; font-size: 16px; font-family: &quot;Calibri&quot;, sans-serif;">&nbsp;</p>
+
+<div style="position:relative; width:100%; height:100%;">
+ <img src="images/uploads/LawsuitArticle.png">
+</div>
+
+<p style="margin: 0in 0in 0.0001pt; font-size: 16px; font-family: &quot;Calibri&quot;, sans-serif;">&nbsp;</p>
+
+
+<div style="text-align: center; position:relative; width:100%; height:100%;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1cqHUKesPGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div style="position:relative; width:100%; height:100%;">
+ <img src="images/uploads/updatefromscott.png">
+</div>
+
+<p style="margin: 0in 0in 0.0001pt; font-size: 16px; font-family: &quot;Calibri&quot;, sans-serif;">&nbsp;</p>
+
+
+<div style="text-align: center; position:relative; width:100%; height:100%;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OfAfxH7BRj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<p style="margin: 0in 0in 0.0001pt; font-size: 16px; font-family: &quot;Calibri&quot;, sans-serif;">&nbsp;</p>
+
+<div style="position:relative; width:100%; height:100%;">
+ <img src="images/uploads/UpdateRegardingDwelling.png">
+</div>
+
+    </div> 
 
   </section>
 </template>
