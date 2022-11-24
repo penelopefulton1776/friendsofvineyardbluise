@@ -47,9 +47,6 @@
             <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
             
     </div>
-    <div id="over" style="position:relative; width:100%; height:100%;">
- <img src="images/uploads/LawsuitArticle.png">
-</div>
 
 <p style="margin: 0in 0in 0.0001pt; font-size: 16px; font-family: &quot;Calibri&quot;, sans-serif;">&nbsp;</p>
 
