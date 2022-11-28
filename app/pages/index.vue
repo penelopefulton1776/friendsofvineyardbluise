@@ -8,7 +8,7 @@
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>December 6, from 7-8:30 pm</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>Power Plus building</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>5500 E. La Palma Ave, Anaheim 92807</p>
-<p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>There will be a discussion pertaining to the lawsuit with Q & A. All are welcome.
+<p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>There will be a discussion pertaining to the lawsuit with Q & A.  All are welcome.
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'><em>Friends of Vineyard is a body of Christians who helped found and establish Vineyard Anaheim, the church Alan and Kathryn Scott were hired to serve as lead pastors in late 2017. This webpage is intended to bring light to the events and conduct which led to hundreds of congregants leave Vineyard Anaheim and consequently to the lawsuit which you can read</em> <u><span style="color:#2F5496;"><a href="/files/002 2022.11.10 Complaint.pdf">here</a></span></u>.</p>
