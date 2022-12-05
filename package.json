@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "dev": "nuxt-ts -o",
-    "build": "react-scripts build",
+    "build": "nuxt-ts build",
     "start": " nuxt-ts start",
     "generate": "nuxt-ts generate",
     "test:lint": "eslint --ext .js,.ts,.vue --ignore-path .gitignore app/",
