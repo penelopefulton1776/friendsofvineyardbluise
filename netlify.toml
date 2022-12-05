@@ -1,3 +1,7 @@
 [build]
   publish = "dist"
   command = "yarn generate"
+  command: yarn generate
+  commandOrigin: config
+  publish: /opt/build/repo/dist
+  publishOrigin: config
