@@ -14,7 +14,7 @@
         class="w-full md:w-1/2 lg:w-1/3 my-4 md:px-4"
       >
         <div class="post rounded-md overflow-hidden shadow-lg">
-          <nuxt-link :to="`/blog/${post.slug}`">
+          <nuxt-link :to="`/press/${post.slug}`">
             <img
               :alt="post.title"
               class="w-full h-64"
