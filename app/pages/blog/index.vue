@@ -1,7 +1,7 @@
 <template>
   <section class="blog">
     <div class="py-8 md:py-16 text-center">
-      <h1 class="text-lg md:text-xl lg:text-4xl xl:text-6xl">Blog</h1>
+      <h1 class="text-lg md:text-xl lg:text-4xl xl:text-6xl">Press</h1>
       <h2 class="text-base md:text-lg lg:text-xl xl:text-2xl">
         The latest updates:
       </h2>
@@ -55,7 +55,7 @@ const Pagination = () => import('@/components/commons/pagination.vue');
         {
           hid: 'description',
           name: 'description',
-          content: 'Blog index',
+          content: 'Press index',
         },
       ],
     };
