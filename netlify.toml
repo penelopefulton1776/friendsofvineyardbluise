@@ -1,4 +1,1 @@
-[build]
-  publish = "dist"
-  command = "yarn generate"
-  environment = { CI = '', NETLIFY_USE_YARN = "false" }
+
