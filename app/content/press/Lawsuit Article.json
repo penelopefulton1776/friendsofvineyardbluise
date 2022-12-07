@@ -1,6 +1,5 @@
 {
   "publishedAt": "22th Nov 2022",
   "title": "Article",
-  "content": "biryani chicken",
-  "featuredImage": "/images/uploads/LawsuitArticle.png"
+  "content": "<img src="/images/uploads/LawsuitArticle.png">",
 }
