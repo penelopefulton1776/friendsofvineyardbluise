@@ -11,12 +11,10 @@
         <li>
         <a href="/files/002 2022.11.10 Complaint.pdf">The Complaint</a>
         </li>
-        <li
-          v-for="(page, index) in pages"
-          :key="index"
-          class="block font-medium px-4 py-1 md:p-2 lg:px-4"
-        >
-          <nuxt-link :to="`/press/${page.slug}`">{{ page.title }}</nuxt-link>
+        <li>
+          <nuxt-link to="/press" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
+            Press
+          </nuxt-link>
         </li>
         <li
           v-for="(page, index) in pages"
