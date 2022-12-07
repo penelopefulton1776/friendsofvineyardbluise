@@ -16,7 +16,7 @@
         <div class="post rounded-md overflow-hidden shadow-lg">
           <nuxt-link :to="`/press/${post.slug}`">
             <img
-              :alt=""
+              :alt="post.title"
               class="w-full h-64"
               :src="post.featuredImage"
             />
