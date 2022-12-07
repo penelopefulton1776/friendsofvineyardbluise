@@ -49,44 +49,24 @@
         <li>
           <u><span style="color:#2F5496;"><a href="/files/002 2022.11.10 Complaint.pdf">The Complaint</a></span></u>
         </li>
-
+        <li>
+          <nuxt-link to="/press" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
+            Press
+          </nuxt-link>
+        </li>
+        <li
+          v-for="(page, index) in pages"
+          :key="index"
+          class="block font-medium px-4 py-1 md:p-2 lg:px-4"
+        >
+          <nuxt-link :to="`/${page.slug}`">{{ page.title }}</nuxt-link>
+        </li>
         
       </ul>
     </nav>
             <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
             
     </div>
-
-<p style="margin: 0in 0in 0.0001pt; font-size: 16px; font-family: &quot;Calibri&quot;, sans-serif;">&nbsp;</p>
-
-<div style="position:relative; width:100%; height:100%;">
- <img src="images/uploads/LawsuitArticle.png">
-</div>
-
-<p style="margin: 0in 0in 0.0001pt; font-size: 16px; font-family: &quot;Calibri&quot;, sans-serif;">&nbsp;</p>
-
-
-<div style="text-align: center; position:relative; width:100%; height:100%;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1cqHUKesPGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<div style="position:relative; width:100%; height:100%;">
- <img src="images/uploads/updatefromscott.png">
-</div>
-
-<p style="margin: 0in 0in 0.0001pt; font-size: 16px; font-family: &quot;Calibri&quot;, sans-serif;">&nbsp;</p>
-
-
-<div style="text-align: center; position:relative; width:100%; height:100%;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OfAfxH7BRj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<p style="margin: 0in 0in 0.0001pt; font-size: 16px; font-family: &quot;Calibri&quot;, sans-serif;">&nbsp;</p>
-
-<div style="position:relative; width:100%; height:100%;">
- <img src="images/uploads/UpdateRegardingDwelling.png">
-</div>
-
     </div> 
 
   </section>
