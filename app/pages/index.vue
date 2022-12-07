@@ -50,9 +50,9 @@
           <u><span style="color:#2F5496;"><a href="/files/002 2022.11.10 Complaint.pdf">The Complaint</a></span></u>
         </li>
         <li>
-          <nuxt-link to="/press" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
+          <u><span style="color:#2F5496;"><nuxt-link to="/press" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
             Press
-          </nuxt-link>
+          </nuxt-link></span></u>
         </li>
         <li
           v-for="(page, index) in pages"
