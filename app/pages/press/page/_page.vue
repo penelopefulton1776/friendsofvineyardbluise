@@ -1,7 +1,7 @@
 <script>
-import Blog from '../index.vue';
+import press from '../index.vue';
 
 export default {
-  extends: Blog,
+  extends: press,
 };
 </script>
