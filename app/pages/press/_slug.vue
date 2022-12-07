@@ -33,7 +33,7 @@ import { MetaInfo } from 'vue-meta';
     };
   },
 })
-export default class BlogPost extends Vue {
+export default class PressPost extends Vue {
   post!: Post;
 
   async asyncData({ params, payload }): Promise<{ post: Post }> {
