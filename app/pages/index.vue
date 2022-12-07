@@ -4,7 +4,7 @@
       <div class="flex flex-col w-full xl:w-3/5 justify-center lg">
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
         <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
-        <img src="images/uploads/protest.png">
+    
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>INFORMATIONAL MEETING:</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>December 6, from 7-8:30 pm</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>Power Plus building</p>
