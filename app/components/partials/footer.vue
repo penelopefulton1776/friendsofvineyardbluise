@@ -1,7 +1,5 @@
 <template>
   <footer class="footer -mx-4 md:mx-0">
-    <div class="container mx-auto pb-6 flex justify-center">
-      
     <nav class="nav ml-auto">
       <ul class="flex flex-row items-center sm:mt-4 sm:pt-4 md:mt-0 md:pt-0 md:mr-4 lg:mr-8">
         <li>
@@ -21,6 +19,7 @@
         </li>
       </ul>
     </nav>
+    <div class="container mx-auto pb-6 flex justify-center">
         <svg
           baseProfile="tiny"
           height="32px"
