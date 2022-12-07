@@ -23,10 +23,6 @@
             <div class="p-6 bg-white">
               <h2 class="text-2xl mb-2">{{ post.title }}</h2>
 
-              <p class="text-base font-light truncate">
-                {{ post.excerpt }}
-              </p>
-
               <h6 class="text-blue-600 mt-4 font-medium">Read more</h6>
             </div>
           </nuxt-link>
