@@ -1,13 +1,12 @@
 <template>
   <header class="flex items-center py-4 md:py-8">
-    <div class="header__logo">
-      <nuxt-link to="/">
-        <img :src="logo" alt="Logo" />
-      </nuxt-link>
-    </div>
-
     <nav class="nav ml-auto">
-      <ul class="flex flex-row items-center sm:mt-4 sm:pt-4 md:mt-0 md:pt-0 md:mr-4 lg:mr-8">
+      <ul class="flex flex-row items-center sm:mt-4 sm:pt-4 md:mt-0 md:pt-0 md:mr-4 lg:mr-8">    
+        <li>
+        <nuxt-link to="/" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
+          Home
+          </nuxt-link>
+        </li>   
         <li>
         <a href="/files/002 2022.11.10 Complaint.pdf">The Complaint</a>
         </li>
