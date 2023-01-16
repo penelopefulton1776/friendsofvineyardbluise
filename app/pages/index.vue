@@ -48,6 +48,9 @@
             Press
           </nuxt-link></span></u>
         </li>
+        <li>
+          <u><span style="color:#2F5496;"><a href="https://www.youtube.com/watch?v=2zUNZGfNjAE">Information Meeting 12/6/2022</a></span></u>
+        </li>
         <li
           v-for="(page, index) in pages"
           :key="index"
