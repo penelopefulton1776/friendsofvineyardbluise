@@ -6,9 +6,12 @@
         <nuxt-link to="/" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
           Home
           </nuxt-link>
-        </li>   
+        </li> 
         <li>
-        <a href="/files/002 2022.11.10 Complaint.pdf">The Complaint</a>
+          <a href="/files/DPA warning to SoCal AAPI Community.pdf">DPA warning to SoCal AAPI Community</a>
+        </li>
+        <li>
+          <a href="/files/002 2022.11.10 Complaint.pdf">The Complaint</a>
         </li>
         <li>
           <nuxt-link to="/press" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
