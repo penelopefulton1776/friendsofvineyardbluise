@@ -7,10 +7,14 @@
           Home
           </nuxt-link>
         </li> 
-	     	<li>
-          <nuxt-link to="/files/DPA warning to SoCal AAPI Community.pdf" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
-			      DPA warning to SoCal AAPI Community
-          </nuxt-link
+		    <li>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        </li> 
+        <li>
+	       <a href="/files/DPA warning to SoCal AAPI Community.pdf">DPA warning to SoCal AAPI Community</a>
+        </li>
+        <li>
+          &nbsp;&nbsp;&nbsp;&nbsp;
         </li>
         <li>
           <a href="/files/002 2022.11.10 Complaint.pdf">The Complaint</a>
