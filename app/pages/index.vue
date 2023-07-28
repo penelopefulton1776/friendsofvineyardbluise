@@ -3,6 +3,12 @@
     <div class="py-24 md:py-36 mx-auto flex flex-wrap flex-col md:flex-row items-center">
       <div class="flex flex-col w-full xl:w-3/5 justify-center lg">
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
+        <center>
+          <iframe scrolling="no" src="/images/uploads/cofounders.jpg" name="imgbox" id="imgbox" width="380" height="600" frameborder="0"></p>
+          </iframe>
+        </center>
+        <p style="margin: 0in 0in 0.0001pt; font-size: 8px; font-family: &quot;Calibri&quot;, sans-serif; text-align:center"><i>Penny Fulton, Carol Wimber, Bob Fulton</i></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 8px; font-family: &quot;Calibri&quot;, sans-serif; text-align:center"><i>Co-founders</i></p>
 <p style="margin: 0in 0in 0.0001pt; font-size: 16px; font-family: &quot;Calibri&quot;, sans-serif;">&nbsp;</p>
 <p style="margin: 0in 0in 0.0001pt; font-size: 20px; font-family: &quot;Calibri&quot;, sans-serif;"><b><i>"We're in a declared war, but unless were clear a bout who the enemy is, we'll waste our time fighting enemies that aren't enemies at all. There's only one enemy and no matter what people do, say or react people are never the enemy. The enemy is our only enemy..."</i></b></p>
 <p style="margin: 0in 0in 0.0001pt; font-size: 20px; font-family: &quot;Calibri&quot;, sans-serif;"><b><i>-John Wimber</i></b></p>
