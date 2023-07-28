@@ -12,11 +12,11 @@
    margin-left: auto;
    margin-right: auto;
 } 
- .2ndparent {
+ .second {
    width: 100px; 
    height: 100px;
 }
-   .2ndparent img {
+   .second img {
    height: 100%;
    width: 100%;
 } 
@@ -32,7 +32,7 @@
    <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
 <p style="margin: 0in 0in 0.0001pt; font-size: 20px; font-family: &quot;Calibri&quot;, sans-serif;"><b><i>"We're in a declared war, but unless were clear about who the enemy is, we'll waste our time fighting enemies that aren't enemies at all. There's only one enemy and no matter what people do, say or react people are never the enemy. The enemy is our only enemy..."</i></b></p>
 <p style="margin: 0in 0in 0.0001pt; font-size: 20px; font-family: &quot;Calibri&quot;, sans-serif;"><b><i>-John Wimber</i></b></p>
-<div class="2ndparent"><img src="/images/uploads/JohnWimber.png">
+<div class="second"><img src="/images/uploads/JohnWimber.png">
 </div>
 <p style="margin: 0in 0in 0.0001pt; font-size: 16px; font-family: &quot;Calibri&quot;, sans-serif;">&nbsp;</p>      
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
