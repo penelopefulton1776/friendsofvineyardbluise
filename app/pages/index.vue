@@ -14,10 +14,12 @@
 </div>
         <p style="margin: 0in 0in 0.0001pt; font-size: 16px; font-family: &quot;Calibri&quot;, sans-serif;">&nbsp;</p>
        <p style="margin: 0in 0in 0.0001pt; font-size: 16px; font-family: &quot;Calibri&quot;, sans-serif;">&nbsp;</p>
+        
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/nAad28aZ3XpheKnm9"
   data-title="FOV0723"
+  data-description="59 new items added to shared album">
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc9GfnDhTZE07hBGMtUB9mSCqKa_W0rzcw-qa5djh-SX0Ckad8_GssgJ2aNCBZgmKC4C1Y0yNf-oCemWlqjcFw_xyKN_RXIfw7kMksEW2_kMjgFgAQ=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc_3UnEgbi5QUAiwLFsF2ADpxfnWz6s-zAvsFVF5Xmg8s7XZAfXAl9jgZSli7Y7IZw8lgpUKQbQ7onZ57UYckCamwlz8Kn6dZpUq86nqv5YtZ2dnXg=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc9HF8V9X-0ANKmdaqvdwBH7XSkDkfn2DG3Z3OSETEX8KfIls8wLjZssDO6U9iqaTokXUYuKALFgoUiIZvL3lYvEDWpJWROPvzNZpsrT5LYWMJzgnw=w1920-h1080"></object>
@@ -77,7 +79,8 @@
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc8sjF77rAoP4wK_k4sB6xDgr1ms12iHuD9fZ94zI9niW3qgyzEl6YuXUVId5LsbZYKG_pxbTvA0Jvri3ycBuiH9KV4hkjYArzZhRvgIuk41hnbSpA=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc_CrcnUTs98YS34Cs2T9KfsY3gsKvSPTWnBYaZm6zG1H17VSdipl3ICIxsb942We_wbMesV8R1HiM7Zyc0MWVY3WgoueqkZbH6yOp8nNhqnmIv7zQ=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc8Zst51zAPyvB4OpTXTtMg6SwZHOfbvqfn_-7Qyw9LZGTrc0rsmaPicb2R0d71Fvu2Kzhi3ur7a1zzamX03mWcQzCChEgtSJlqpwEVfHQBhCwxYJA=w1920-h1080"></object>
-</div>  
+</div>
+
 <p style="margin: 0in 0in 0.0001pt; font-size: 16px; font-family: &quot;Calibri&quot;, sans-serif;">&nbsp;</p>      
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>Friends of Vineyard is a body of Christians who helped found and establish Vineyard Anaheim, the church Alan and Kathryn Scott were hired to serve as lead pastors in late 2017. This webpage is intended to bring light to the events and conduct which led to hundreds of congregants leave Vineyard Anaheim and consequently to the lawsuit which you can read <u><span style="color:#2F5496;"><a href="/files/002 2022.11.10 Complaint.pdf">here</a></span></u>.</p>
