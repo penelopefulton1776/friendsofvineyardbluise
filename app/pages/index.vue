@@ -12,14 +12,13 @@
 <p style="margin: 0in 0in 0.0001pt; font-size: 20px; font-family: &quot;Calibri&quot;, sans-serif;"><b><i>-John Wimber</i></b></p>
 <div class="second"><img src="/images/uploads/JohnWimber.png">
 </div>
-
+        <p style="margin: 0in 0in 0.0001pt; font-size: 16px; font-family: &quot;Calibri&quot;, sans-serif;">&nbsp;</p>
+       <p style="margin: 0in 0in 0.0001pt; font-size: 16px; font-family: &quot;Calibri&quot;, sans-serif;">&nbsp;</p>
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/nAad28aZ3XpheKnm9"
   data-title="FOV0723"
-  data-description="61 new items added to shared album">
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc9GfnDhTZE07hBGMtUB9mSCqKa_W0rzcw-qa5djh-SX0Ckad8_GssgJ2aNCBZgmKC4C1Y0yNf-oCemWlqjcFw_xyKN_RXIfw7kMksEW2_kMjgFgAQ=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AIL4fc8I2mPiXbh00LSGTVmd760Jb_Djnra4xbZN0hN6ReFyE9epdsk_Ge-SA_XVy-nlde9tbZU_LgZwNam0OqFJYoVOGiG_Pg64v0mUz3CtPgj_SA4-ow=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc_3UnEgbi5QUAiwLFsF2ADpxfnWz6s-zAvsFVF5Xmg8s7XZAfXAl9jgZSli7Y7IZw8lgpUKQbQ7onZ57UYckCamwlz8Kn6dZpUq86nqv5YtZ2dnXg=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc9HF8V9X-0ANKmdaqvdwBH7XSkDkfn2DG3Z3OSETEX8KfIls8wLjZssDO6U9iqaTokXUYuKALFgoUiIZvL3lYvEDWpJWROPvzNZpsrT5LYWMJzgnw=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc91heS6N4V468uu3pignq9ZhWkvYXVz2X4hMUL_lN39A1gCwV69f5JoCrZ1NoIh_DzVreDrctE3NT9WZIwzn6SbHDdc2Pr1AlY2kFqY4RoV8W359Q=w1920-h1080"></object>
@@ -36,7 +35,6 @@
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc_YoEOlPjOwlLcj_k1WJ0PoRey6GokSKn4-DknoFbioIPtzjFzUHwy5948jsYgnjl9qrC13gTPedsqPEFUMNEYkRfETPDVLE3HLmZ61BoZJm9M0Qg=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc8Wg-bR5KMn1Z2LLhZnUY7T5ioWQVe9BA4a7tvWHbZ2ShdbDARKyXfCb8Fln7j4u8ruT01chx4rn8Z2FKyoHz-Q9HXLdKdnv4akdMtKagrx8JzWaw=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc9vYXdg1hSfm09nSljOcdE0abwfl1at06Apq1xuwrTFC18b0GH_ZxZbYRxURlA6jUUOdGBKJ_2TFEKoOyqAz2jkpzuNcmQH-JguHP1Bs8-kTA3gJg=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AIL4fc-bIDauv66QVB409qtbmbGU4c9SvH2H5Fn-D1-62-VDGKGufSuvVr6mVo_il5UkATlyEBfX8zRiTQBmkZmSx1aY3tFOz8JsDw_QFfbGUGNXqRvZNQ=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc8HHIYprs-QcHpDv4eiNPrxQI_qaz4NFOHqQNW7JT7XMSo1hO_PQRcK26sSEMRmQFvwAGJ8GPNfhl6S_ZMZ-PxwP8CUtFlSHCb71T0S5IREK7ZiVg=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc-SWxaeL4XUhWlWO4CmYcSOGd_AKQi0y-ek4JTlYp8-3hmrePEDnfShiE_Z0eBrzqnRp3PpOnDpcaPfevlqBR3eZVSkAeNcnZ7uRtWgsVr-JhqKuw=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc-YdTrtnOErRsWTFYpGK5eZtIDPve_bMxBfuVxQ4nrqBJ2XnkUIbLmmsNepi4jVebl7QpbvyXp-xtEBlZWnW5FfTQte5PXXglFecPizFjSA1P6dYw=w1920-h1080"></object>
