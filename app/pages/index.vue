@@ -1,20 +1,39 @@
 <template>
+<style>
+ .parent {
+   width: 380px; 
+   height: 680px;
+   margin-left: auto;
+   margin-right: auto;
+}
+   .parent img {
+   height: 100%;
+   width: 100%;
+   margin-left: auto;
+   margin-right: auto;
+} 
+ .2ndparent {
+   width: 100px; 
+   height: 100px;
+}
+   .2ndparent img {
+   height: 100%;
+   width: 100%;
+} 
+</style>
   <section class="home">
     <div class="py-24 md:py-36 mx-auto flex flex-wrap flex-col md:flex-row items-center">
       <div class="flex flex-col w-full xl:w-3/5 justify-center lg">
-        <center>
-          <iframe scrolling="no" src="/images/uploads/cofounders.jpg" name="imgbox" id="imgbox" width="380" height="600" frameborder="0"></p>
-          </iframe>
-        </center>
+<div class="parent"><img src="/images/uploads/cofounders.jpg">
+</div>
         <p style="margin: 0in 0in 0.0001pt; font-size: 8px; font-family: &quot;Calibri&quot;, sans-serif; text-align:center"><i>Penny Fulton, Carol Wimber, Bob Fulton</i></p>
         <p style="margin: 0in 0in 0.0001pt; font-size: 8px; font-family: &quot;Calibri&quot;, sans-serif; text-align:center"><i>Co-founders</i></p>
         <p style="margin: 0in 0in 0.0001pt; font-size: 16px; font-family: &quot;Calibri&quot;, sans-serif;">&nbsp;</p>
    <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
 <p style="margin: 0in 0in 0.0001pt; font-size: 20px; font-family: &quot;Calibri&quot;, sans-serif;"><b><i>"We're in a declared war, but unless were clear about who the enemy is, we'll waste our time fighting enemies that aren't enemies at all. There's only one enemy and no matter what people do, say or react people are never the enemy. The enemy is our only enemy..."</i></b></p>
 <p style="margin: 0in 0in 0.0001pt; font-size: 20px; font-family: &quot;Calibri&quot;, sans-serif;"><b><i>-John Wimber</i></b></p>
-<iframe frameborder="0" scrolling="no" width="100" height="100"
-   src="/images/uploads/JohnWimber.png" name="imgbox" id="imgbox">
-</iframe>
+<div class="2nddparent"><img src="/images/uploads/JohnWimber.png">
+</div>
 <p style="margin: 0in 0in 0.0001pt; font-size: 16px; font-family: &quot;Calibri&quot;, sans-serif;">&nbsp;</p>      
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>Friends of Vineyard is a body of Christians who helped found and establish Vineyard Anaheim, the church Alan and Kathryn Scott were hired to serve as lead pastors in late 2017. This webpage is intended to bring light to the events and conduct which led to hundreds of congregants leave Vineyard Anaheim and consequently to the lawsuit which you can read <u><span style="color:#2F5496;"><a href="/files/002 2022.11.10 Complaint.pdf">here</a></span></u>.</p>
