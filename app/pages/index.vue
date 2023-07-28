@@ -3,7 +3,14 @@
     <div class="py-24 md:py-36 mx-auto flex flex-wrap flex-col md:flex-row items-center">
       <div class="flex flex-col w-full xl:w-3/5 justify-center lg">
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
-        <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 16px; font-family: &quot;Calibri&quot;, sans-serif;">&nbsp;</
+<p style="margin: 0in 0in 0.0001pt; font-size: 20px; font-family: &quot;Calibri&quot;, sans-serif;"><b><i>"We're in a declared war, but unless were clear a bout who the enemy is, we'll waste our time fighting enemies that aren't enemies at all. There's only one enemy and no matter what people do, say or react people are never the enemy. The enemy is our only enemy..."</i></b></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 20px; font-family: &quot;Calibri&quot;, sans-serif;"><b><i>-John Wimber</i></b></p>
+<iframe frameborder="0" scrolling="no" width="100" height="100"
+   src="/images/uploads/JohnWimber.png" name="imgbox" id="imgbox">
+</iframe><br/>
+<p style="margin: 0in 0in 0.0001pt; font-size: 16px; font-family: &quot;Calibri&quot;, sans-serif;">&nbsp;</p>      
+<p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>Friends of Vineyard is a body of Christians who helped found and establish Vineyard Anaheim, the church Alan and Kathryn Scott were hired to serve as lead pastors in late 2017. This webpage is intended to bring light to the events and conduct which led to hundreds of congregants leave Vineyard Anaheim and consequently to the lawsuit which you can read<u><span style="color:#2F5496;"><a href="/files/002 2022.11.10 Complaint.pdf">here</a></span></u>.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Calibri",sans-serif;'>In February 2022, Alan Scott announced his intention to disassociate the Vineyard Anaheim church from Vineyard USA along with all its assets totaling at least $62 Million. Vineyard Anaheim was renamed Dwelling Place Anaheim by the Scotts and the new board of directors. Vineyard Anaheim was the flagship church of the Vineyard movement internationally as it was started by the founders of the Vineyard movement.</p>
