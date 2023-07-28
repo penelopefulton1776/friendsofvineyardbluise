@@ -1,26 +1,4 @@
 <template>
-<style>
- .parent {
-   width: 380px; 
-   height: 680px;
-   margin-left: auto;
-   margin-right: auto;
-}
-   .parent img {
-   height: 100%;
-   width: 100%;
-   margin-left: auto;
-   margin-right: auto;
-} 
- .second {
-   width: 100px; 
-   height: 100px;
-}
-   .second img {
-   height: 100%;
-   width: 100%;
-} 
-</style>
   <section class="home">
     <div class="py-24 md:py-36 mx-auto flex flex-wrap flex-col md:flex-row items-center">
       <div class="flex flex-col w-full xl:w-3/5 justify-center lg">
